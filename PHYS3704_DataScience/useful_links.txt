@@ -1,0 +1,4 @@
+USEFUL LINKS
+
+Brett Andrews Python Bootcamp:
+https://github.com/astropgh/python-boot-camp-2024/blob/main/notebooks/01-PythonIntro/2_Data_Structures.ipynb
